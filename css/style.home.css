@@ -1,0 +1,25 @@
+.cat-productos, .top-sp{
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.producto{
+    border: 1px solid #696868;
+    padding: 20px 0px;
+    border-radius: 15px;
+}
+.all-products{
+    margin-left: 4.16%;
+    border-top: 1px solid #1cca5f;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.left-med{
+    margin-left: 4.16%;
+}
+.btns-product{
+    padding: 0px 5px;
+}
+.btn-primary a{
+    color: #ffffff;
+}

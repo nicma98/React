@@ -1,0 +1,23 @@
+.car-productos, .top-sp{
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.left-med{
+    margin-left: 4.16%;
+}
+.car-shop{
+    margin-left: 4.16%;
+    border-top: 1px solid #1cca5f;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.producto-pedido{
+    border-top: 1px solid #807f7f;
+}
+.all-pedido-products{
+    border: 1px solid #807f7f;
+}
+.btn-pagar{
+    margin-left: 10px;
+}
